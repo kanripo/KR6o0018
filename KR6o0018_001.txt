@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:19.582770
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:35
 #+TITLE: 因明義斷
 #+PROPERTY: CBETA_ID T44n1841
 #+PROPERTY: ID KR6o0018
