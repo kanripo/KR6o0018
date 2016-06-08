@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:19.803586
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:35
 #+TITLE: 因明義斷
 #+PROPERTY: CBETA_ID T44n1841
 #+PROPERTY: ID KR6o0018
@@ -13,7 +13,7 @@
 ¶
 ¶
 No. 1841 [cf. No. 1630]¶
-因明義斷一卷¶
+因明義斷一卷因明入正理論義斷一卷¶
 ¶
 淄洲大雲寺苾芻慧沼述¶
 
